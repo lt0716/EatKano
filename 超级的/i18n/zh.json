@@ -1,9 +1,9 @@
 {
   "lang": "zh",
   "start": "开始烧烤",
-  "normal": "普通模式",
-  "endless": "无尽模式",
-  "practice": "练习模式",
+  "normal": "普通烧烤",
+  "endless": "无尽烧烤",
+  "practice": "烧烤练习",
   "settings": "游戏设置",
   "img-before": "点击前图",
   "img-after": "点击后图",
